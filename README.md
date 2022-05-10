@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wammyve
-- 👀 I’m interested in: working with databases, also women.
+- 👀 I’m interested in: working with databases, programming, also women.
 - 🎓 I’m currently experienced in: Java, Python, SQL
 - 🌱 I’m currently learning: JS, C#, HTML, CSS
 - 💞️ I’m looking to collaborate on: currently nothing as of right now
