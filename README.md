@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Wammyve
-- 👀 I’m interested in: working with databases, programming, also women.
-- 🎓 I’m currently experienced in: Java, Python, SQL
-- 🌱 I’m currently learning: JS, C#, HTML, CSS
-- 💞️ I’m looking to collaborate on: currently nothing as of right now
+- 👋 Hi, I’m @Wammyve, but you can just call my Wammy or Wam.
+- 👀 I’m interested in: working with databases, programming, also WOMEN.
+- 🎓 I’m currently experienced in: Java, Python, SQL, C++
+- 🌱 I’m currently learning: JS, C#, HTML, PHP
+- 💞️ I’m looking to collaborate on: currently nothing as of right now lol
 - 📫 How to reach me: thesquidagent@gmail.com
 
 <!---
