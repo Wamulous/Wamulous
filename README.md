@@ -12,7 +12,3 @@ Ram: 8 x 2 GB @ 2666 Mhz
 Storage: 512 GB Samsung NVMe M.2 SSD + (1.8 TB HDD with 256 GB SSD Cache)
 
 and yeah
-<!---
-Wammyve/Wammyve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
