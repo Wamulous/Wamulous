@@ -1,11 +1,11 @@
 ## My interests
 Working with databases, programming, and some cybersecurity
 ## Languages Used
-Java, Python, SQL, C/C++, HTML, REACT, JavaScript, TypeScript
+Bash, Java, Python, SQL, C/C++, HTML, CSS, JavaScript, TypeScript
 ## Databases Used
 Oracle, MySQL, MongoDB, PostgreSQL
 ## Technologies Used
-Node, Bun, AWS, Google Cloud
+REACT, Node, Bun, AWS, Google Cloud, FastAPI
 
 ### Also...
 I'm a big fan of Open Source software
